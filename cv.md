@@ -12,7 +12,7 @@
 **Objective**
 >Start a career as a front-end developer. Assert myself. Achieve high level.
 
-**Scills**
+**Skills**
 - Programming languages:
 
   - C;
